@@ -4634,7 +4634,8 @@ self.C3_JsPropNameTable = [
 	{ТайловыйФон10: 0},
 	{ТайловыйФон11: 0},
 	{Спрайт12: 0},
-	{Спрайт13: 0}
+	{Спрайт13: 0},
+	{Спрайт14: 0}
 ];
 
 self.InstanceType = {
@@ -4665,7 +4666,8 @@ self.InstanceType = {
 	ТайловыйФон10: class extends self.ITiledBackgroundInstance {},
 	ТайловыйФон11: class extends self.ITiledBackgroundInstance {},
 	Спрайт12: class extends self.ISpriteInstance {},
-	Спрайт13: class extends self.ISpriteInstance {}
+	Спрайт13: class extends self.ISpriteInstance {},
+	Спрайт14: class extends self.ISpriteInstance {}
 }
 }
 
